@@ -10,8 +10,12 @@ h1{
     max-width: 960px;
     margin: 0 auto;
     clear: both;
-  }
+}
 .buttons{
     text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+#btn4{
     
-  }
+}
